@@ -1,0 +1,7 @@
+numpy
+opencv-python==4.1.1
+requests
+pyaml
+six
+boto3
+matplotlib

@@ -1,0 +1,4 @@
+dump_dir/*
+__pycache__/*
+s3_settings.py
+yolo/*
